@@ -2,7 +2,7 @@ repo_name: martin-creator/nest-book-example
 report_id: c1b2ad338933d5b27eaea5dd3f8438d8
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T08:03:18+00:00'
+timestamp: '2024-02-29T19:53:18+00:00'
 requested_by: minhduc-edu
 provider: github
 branch: master
@@ -251,7 +251,7 @@ tools:
   last_updated_by: yharaskrik
   last_updated_on: 2018-07-05 15:40:41.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.12.1
   license: MIT
@@ -279,7 +279,7 @@ tools:
   last_updated_by: yharaskrik
   last_updated_on: 2018-07-05 15:40:41.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 3.0.0
   license: MIT
